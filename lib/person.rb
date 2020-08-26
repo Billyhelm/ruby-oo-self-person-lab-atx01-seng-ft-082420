@@ -1,4 +1,5 @@
 # your code goes here
+#worked on with Marcus Siegel during pairing time
 require 'pry'
 class Person
     attr_accessor :bank_account
